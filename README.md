@@ -39,7 +39,8 @@ A **React-based** mini project that integrates the **News API** to fetch and dis
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/AnjaliGupta29/News_mag.git
-   cd react-news-mag
+   https://github.com/AnjaliGupta29/React-Projects.git
+   cd News_mag
    ```
 
 2. **Install dependencies**  
