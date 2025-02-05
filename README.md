@@ -2,6 +2,7 @@
 This repo having react projects
 
 # Course Selling Platform
+---
 
 This React project is a platform for selling courses. Users can explore courses in different categories like **Development**, **Android**, and view all available courses. Below is an overview of the project features and setup.
 
@@ -22,9 +23,9 @@ This React project is a platform for selling courses. Users can explore courses 
   
 
 # 📰 React News Magazine
+---
 
 A **React-based** mini project that integrates the **News API** to fetch and display the latest news articles. The project is styled using **Bootstrap** for a clean and responsive design. 🚀
-
 ## 📌 Features
 ✅ Fetches **live news** from the News API  
 ✅ Displays **top headlines** dynamically  
@@ -32,34 +33,25 @@ A **React-based** mini project that integrates the **News API** to fetch and dis
 ✅ Responsive design for **mobile & desktop**  
 ✅ Beginner-friendly **mini-project**  
 
----
-
 ## 🚀 Installation & Setup
-
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/AnjaliGupta29/News_mag.git
    https://github.com/AnjaliGupta29/React-Projects.git
    cd News_mag
    ```
-
 2. **Install dependencies**  
    ```sh
    npm install
    ```
-
 3. **Create a `.env` file** in the root directory and add:  
    ```
    VITE_API_KEY=your_newsapi_key_here
    ```
-
 4. **Start the development server**  
    ```sh
    npm run dev
    ```
-
----
-
 ## 📂 Project Structure
 ```
 react-news-mag/
@@ -75,30 +67,46 @@ react-news-mag/
 │── package.json
 ```
 
----
-
 ## 🛠️ Technologies Used
 - **React.js** – Frontend framework  
 - **News API** – Fetching real-time news  
 - **Bootstrap** – Styling and UI components  
 - **Vite** – Fast development build tool  
 
----
-
 ## 🔗 API Used  
 This project uses the **[News API](https://newsapi.org/)** to fetch the latest news articles.
 
----
 
 ## 💡 Future Enhancements  
 - 🏷️ Category-based news filtering  
 
----
 
 ## 🤝 Contributing  
 Pull requests and suggestions are welcome! If you find any bugs or have feature requests, feel free to open an issue.
 
+
+
+# 🚗 Car Showroom Landing Page
 ---
+
+This is a **mini-project** showcasing a responsive **Car Showroom Landing Page** built using **React**. The project is frontend-only with no backend integration.
+
+## 🏗 Features
+- 🚀 Fully responsive design  
+- 🎨 Modern UI/UX  
+- 🏎️ Showcases featured cars  
+- 📸 High-quality images  
+- 📱 Mobile-friendly navigation  
+
+## 🛠 Tech Stack
+- ⚛ **React** – Frontend framework  
+- 💡 **CSS/Tailwind** – Styling  
+- 📂 **React Router** – For navigation  
+
+## 🚀 Installation & Setup
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/AnjaliGupta29/Landing_page/landing_page.git
 
 ### 🎯 Happy Coding! 🚀
 
